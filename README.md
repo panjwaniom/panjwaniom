@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Om 👋
 
-<!--
-**panjwaniom/panjwaniom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BCA Graduate passionate about building clean, scalable applications.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Swift / SwiftUI
+- React / Node.js
+- Python Automation
+- REST APIs
+- Core Data
+- Tailwind CSS
+
+## 📱 Projects
+
+- **SpendEasy** – iOS expense tracking app built with SwiftUI
+- **TaskToDo** – Modern React task management web app
+- Python-based automation & data monitoring tools
+
+## 📫 Connect With Me
+
+- LinkedIn: linkedin.com/in/ompanjwani
+
+Currently seeking opportunities in:
+iOS Development | Frontend Development | Python Automation
