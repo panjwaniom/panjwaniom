@@ -1,25 +1,18 @@
 # Hi, I'm Om 👋
 
-BCA Graduate passionate about building clean, scalable applications.
+Frontend Developer focused on building responsive and high-performance web applications using React and modern JavaScript.
 
 ## 🚀 Tech Stack
+- React, JavaScript (ES6+), TypeScript  
+- HTML5, CSS3, Tailwind CSS  
+- REST APIs, Responsive Design  
+- Git, GitHub  
 
-- Swift / SwiftUI
-- React / Node.js
-- Python Automation
-- REST APIs
-- Core Data
-- Tailwind CSS
+## 💻 Projects
+- Task Manager Web App (React + Node.js + MySQL)  
+- Weather & News Dashboard (React + APIs)  
+- Personal Portfolio (React)  
 
-## 📱 Projects
-
-- **SpendEasy** – iOS expense tracking app built with SwiftUI
-- **TaskToDo** – Modern React task management web app
-- Python-based automation & data monitoring tools
-
-## 📫 Connect With Me
-
-- LinkedIn: linkedin.com/in/ompanjwani
-
-Currently seeking opportunities in:
-iOS Development | Frontend Development | Python Automation
+## 📫 Connect with me
+- LinkedIn: https://linkedin.com/in/ompanjwani  
+- Email: ompanjwani77@gmail.com  
