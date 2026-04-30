@@ -11,8 +11,8 @@ I've spent the past year freelancing — shipping real products for real clients
 | Project | Stack | Highlight |
 |---|---|---|
 | [TaskToDo – Task Manager](https://github.com/panjwaniom/task-todo-web-app) | React · Node.js · Express · MySQL | JWT auth, full-stack, bugs reduced from 15 → 8/sprint |
-| [Weather & News Dashboard](https://github.com/panjwaniom) | React · OpenWeatherMap API · NewsAPI | ~40% fewer API calls via smart caching |
-| [Developer Portfolio](https://github.com/panjwaniom) | React · CSS3 | Lighthouse score 92+ · mobile-first |
+| [Weather & News Dashboard](https://github.com/panjwaniom/weather-news-dashboard) | React · OpenWeatherMap API · NewsAPI | ~40% fewer API calls via smart caching |
+| [Developer Portfolio](https://github.com/panjwaniom/portfolio) | React · CSS3 | Lighthouse score 92+ · mobile-first |
 
 ---
 
