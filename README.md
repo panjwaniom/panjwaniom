@@ -9,7 +9,7 @@ I care about performance, maintainable code, and creating user experiences that 
 
 | Project | Stack | Highlight |
 |---|---|---|
-| [macOS Portfolio](https://ompanjwani.vercel.app) | React · JavaScript · CSS3 | Lighthouse 100 · 0.6s FCP · Zero third-party UI libraries |
+| [macOS Portfolio](https://ompanjwani.vercel.app) | React · JavaScript · Framer Motion · CSS3 | Lighthouse 100 · 0.6s FCP · physics-based dock magnification |
 | [TaskToDo – Task Manager](https://github.com/panjwaniom/task-todo-web-app) | React · TypeScript · Node.js · Express · MySQL | JWT authentication · Full-stack · Type-safe architecture |
 | [Weather & News Dashboard](https://github.com/panjwaniom/weather-news-dashboard) | React · TypeScript · REST APIs | API calls reduced from 6–8 to 2–3 using debounced search |
 
