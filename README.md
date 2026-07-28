@@ -1,5 +1,5 @@
 # Hi, I'm Om 👋
-Frontend Developer building fast, clean web apps with React and TypeScript.
+Frontend Developer with 2 years of experience building fast, clean web apps with React and TypeScript.
 I care about performance, readable code, and UIs that work on every screen.
 ---
 ## What I've shipped
