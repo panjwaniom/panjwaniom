@@ -1,27 +1,45 @@
 # Hi, I'm Om 👋
-Frontend Developer with 2 years of experience building fast, clean web apps with React and TypeScript.  
-I care about performance, readable code, and UIs that work on every screen.
+
+Frontend Developer building fast, clean web applications with React and TypeScript.
+I care about performance, maintainable code, and creating user experiences that feel fast and intuitive across every screen.
+
 ---
+
 ## What I've shipped
+
 | Project | Stack | Highlight |
 |---|---|---|
-| [macOS Portfolio](https://ompanjwani.vercel.app) | React · JavaScript · CSS3 | Lighthouse 100 · 0.6s FCP · zero third-party UI libs |
-| [TaskToDo – Task Manager](https://github.com/panjwaniom/task-todo-web-app) | React · TypeScript · Node.js · Express · MySQL | JWT auth · SQLite/MySQL adapter · full-stack |
-| [Weather & News Dashboard](https://github.com/panjwaniom/weather-news-dashboard) | React · TypeScript · REST APIs | API calls reduced from 6–8 to 2–3 via debouncing |
+| [macOS Portfolio](https://ompanjwani.vercel.app) | React · JavaScript · CSS3 | Lighthouse 100 · 0.6s FCP · Zero third-party UI libraries |
+| [TaskToDo – Task Manager](https://github.com/panjwaniom/task-todo-web-app) | React · TypeScript · Node.js · Express · MySQL | JWT authentication · Full-stack · Type-safe architecture |
+| [Weather & News Dashboard](https://github.com/panjwaniom/weather-news-dashboard) | React · TypeScript · REST APIs | API calls reduced from 6–8 to 2–3 using debounced search |
+
 ---
-## Tech stack
+
+## Tech Stack
+
 **Frontend**  
-React · JavaScript (ES6+) · TypeScript · HTML5 · CSS3 · Tailwind CSS · Bootstrap  
+React · Next.js · JavaScript (ES6+) · TypeScript · HTML5 · CSS3 · Tailwind CSS · Redux · Context API
+
 **Backend & Data**  
-Node.js · Express.js · MySQL · REST APIs  
+Node.js · Express.js · MySQL · REST APIs
+
 **Tools**  
-Git · GitHub · Chrome DevTools  
+Git · GitHub · Vite · Postman · Figma · Chrome DevTools · VS Code
+
 ---
+
 ## Currently
-🔍 Actively looking for a frontend developer role  
-🛠 Building and refining React projects  
-📖 Following frontend engineering changelogs and blogs  
-💬 Active on GitHub and Discord dev communities  
+
+🔍 Actively looking for a Frontend Developer role
+
+🛠 Building and refining React projects
+
+📖 Learning modern frontend architecture, performance optimization, and scalable UI patterns
+
+💬 Active on GitHub and continuously building production-ready projects
+
 ---
+
 ## Connect
+
 [LinkedIn](https://linkedin.com/in/ompanjwani) · [Email](mailto:ompanjwani77@gmail.com) · [Portfolio](https://ompanjwani.vercel.app)
